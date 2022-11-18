@@ -15,4 +15,6 @@ On dénombre 4 types de variables
 
 Dans les 4 premiers modules du cours de Sciences des données I, vous avez découvert une série de graphiques. Proposez un arbre de décision permettant de choisir le bon graphique en fonction du type des variables. Le choix du logiciel est libre.
 
-Placez votre arbre de décision au format **PDF** dans le dossier docs de ce dépôt. Vous devez créer le dossier docs/. Pensez à compresser votre fichier **PDF**
+Placez votre arbre de décision au format **PDF** dans le dossier docs de ce dépôt. Vous devez créer le dossier docs/.
+
+Pensez à compresser votre fichier **PDF** afin de ne pas intégrer un fichier trop volumineux dans votre dépôt .git.
